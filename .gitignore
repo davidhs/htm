@@ -2,7 +2,6 @@ node_modules
 package-lock.json
 /preact
 /react
-dist
 mini
 yarn.lock
 htm.tgz

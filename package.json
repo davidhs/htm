@@ -112,7 +112,7 @@
     "eslint": "^5.2.0",
     "eslint-config-developit": "^1.1.1",
     "jest": "^24.1.0",
-    "microbundle": "^0.10.1",
+    "microbundle": "^0.13.3",
     "preact": "^10.2.0",
     "react": "^16.8.3"
   }
